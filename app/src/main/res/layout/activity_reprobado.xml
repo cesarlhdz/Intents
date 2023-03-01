@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".reprobado"
-    android:background="@drawable/bg2">
+    android:background="#FFD6D6">
 
     <TextView
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:shadowColor="@color/black"
-        android:text="Obtuviste un "
+        android:text="Reprobado "
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:textColor="#CD001F"
         app:layout_constraintBottom_toBottomOf="parent"
